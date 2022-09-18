@@ -1,0 +1,10 @@
+C:\Users\itcdnet07\source\repos\Ticketconsumer\shared.Models\bin\Debug\netcoreapp3.1\shared.Models.deps.json
+C:\Users\itcdnet07\source\repos\Ticketconsumer\shared.Models\bin\Debug\netcoreapp3.1\shared.Models.dll
+C:\Users\itcdnet07\source\repos\Ticketconsumer\shared.Models\bin\Debug\netcoreapp3.1\shared.Models.pdb
+C:\Users\itcdnet07\source\repos\Ticketconsumer\shared.Models\obj\Debug\netcoreapp3.1\shared.Models.csproj.AssemblyReference.cache
+C:\Users\itcdnet07\source\repos\Ticketconsumer\shared.Models\obj\Debug\netcoreapp3.1\shared.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itcdnet07\source\repos\Ticketconsumer\shared.Models\obj\Debug\netcoreapp3.1\shared.Models.AssemblyInfoInputs.cache
+C:\Users\itcdnet07\source\repos\Ticketconsumer\shared.Models\obj\Debug\netcoreapp3.1\shared.Models.AssemblyInfo.cs
+C:\Users\itcdnet07\source\repos\Ticketconsumer\shared.Models\obj\Debug\netcoreapp3.1\shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\itcdnet07\source\repos\Ticketconsumer\shared.Models\obj\Debug\netcoreapp3.1\shared.Models.dll
+C:\Users\itcdnet07\source\repos\Ticketconsumer\shared.Models\obj\Debug\netcoreapp3.1\shared.Models.pdb
